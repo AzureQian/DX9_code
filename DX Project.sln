@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6 TexCube", "Project
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6 TexQuad", "Project6 TexQuad\Project6 TexQuad.vcxproj", "{7B5403AE-893C-4EDF-B65D-7175BACE7EA9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6 AddressModes", "Project6 AddressModes\Project6 AddressModes.vcxproj", "{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{7B5403AE-893C-4EDF-B65D-7175BACE7EA9}.Release|x64.Build.0 = Release|x64
 		{7B5403AE-893C-4EDF-B65D-7175BACE7EA9}.Release|x86.ActiveCfg = Release|Win32
 		{7B5403AE-893C-4EDF-B65D-7175BACE7EA9}.Release|x86.Build.0 = Release|Win32
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Debug|x64.ActiveCfg = Debug|x64
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Debug|x64.Build.0 = Debug|x64
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Debug|x86.ActiveCfg = Debug|Win32
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Debug|x86.Build.0 = Debug|Win32
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Release|x64.ActiveCfg = Release|x64
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Release|x64.Build.0 = Release|x64
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Release|x86.ActiveCfg = Release|Win32
+		{E3B90ABA-005B-4B15-93D1-ED1E64CB0F73}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
