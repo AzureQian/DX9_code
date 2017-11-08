@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6 AddressModes", "Pr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project7 TexAlpha", "Project7 TexAlpha\Project7 TexAlpha.vcxproj", "{5CC424FD-1A45-4013-A2A9-FE49EC2FBAB6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project7 MtrlAlpha", "Project7 MtrlAlpha\Project7 MtrlAlpha.vcxproj", "{56F262AB-3490-431E-BFD1-A4780A059424}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{5CC424FD-1A45-4013-A2A9-FE49EC2FBAB6}.Release|x64.Build.0 = Release|x64
 		{5CC424FD-1A45-4013-A2A9-FE49EC2FBAB6}.Release|x86.ActiveCfg = Release|Win32
 		{5CC424FD-1A45-4013-A2A9-FE49EC2FBAB6}.Release|x86.Build.0 = Release|Win32
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Debug|x64.ActiveCfg = Debug|x64
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Debug|x64.Build.0 = Debug|x64
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Debug|x86.ActiveCfg = Debug|Win32
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Debug|x86.Build.0 = Debug|Win32
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Release|x64.ActiveCfg = Release|x64
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Release|x64.Build.0 = Release|x64
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Release|x86.ActiveCfg = Release|Win32
+		{56F262AB-3490-431E-BFD1-A4780A059424}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
