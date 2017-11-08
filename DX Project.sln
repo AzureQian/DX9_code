@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project5 Point Light", "Pro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project5 Spotlight", "Project5 Spotlight\Project5 Spotlight.vcxproj", "{EDD0F27D-62FE-4AE4-8706-7D154CAD0A3B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6 TexCube", "Project6 TexCube\Project6 TexCube.vcxproj", "{AB3E5987-659C-4328-BDB3-2E2694CA28C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{EDD0F27D-62FE-4AE4-8706-7D154CAD0A3B}.Release|x64.Build.0 = Release|x64
 		{EDD0F27D-62FE-4AE4-8706-7D154CAD0A3B}.Release|x86.ActiveCfg = Release|Win32
 		{EDD0F27D-62FE-4AE4-8706-7D154CAD0A3B}.Release|x86.Build.0 = Release|Win32
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Debug|x64.ActiveCfg = Debug|x64
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Debug|x64.Build.0 = Debug|x64
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Debug|x86.Build.0 = Debug|Win32
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Release|x64.ActiveCfg = Release|x64
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Release|x64.Build.0 = Release|x64
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Release|x86.ActiveCfg = Release|Win32
+		{AB3E5987-659C-4328-BDB3-2E2694CA28C6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
