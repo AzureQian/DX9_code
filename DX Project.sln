@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project7 MtrlAlpha", "Proje
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project8 Stencil Mirror", "Project8 Stencil Mirror\Project8 Stencil Mirror.vcxproj", "{C251E530-369C-4F70-B5B4-CDBC918C6D32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project8 Stencil Shadow", "Project8 Stencil Shadow\Project8 Stencil Shadow.vcxproj", "{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -171,6 +173,14 @@ Global
 		{C251E530-369C-4F70-B5B4-CDBC918C6D32}.Release|x64.Build.0 = Release|x64
 		{C251E530-369C-4F70-B5B4-CDBC918C6D32}.Release|x86.ActiveCfg = Release|Win32
 		{C251E530-369C-4F70-B5B4-CDBC918C6D32}.Release|x86.Build.0 = Release|Win32
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Debug|x64.ActiveCfg = Debug|x64
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Debug|x64.Build.0 = Debug|x64
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Debug|x86.ActiveCfg = Debug|Win32
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Debug|x86.Build.0 = Debug|Win32
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Release|x64.ActiveCfg = Release|x64
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Release|x64.Build.0 = Release|x64
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Release|x86.ActiveCfg = Release|Win32
+		{F00F8494-9022-4DC3-ADF2-1CB8A9C71F69}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
