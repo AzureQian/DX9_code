@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project8 Stencil Mirror Sha
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project9 CFont", "Project9 CFont\Project9 CFont.vcxproj", "{634D0EBF-C8FB-42FD-BE3A-48EBD2A4830B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project9 ID3DXFont", "Project9 ID3DXFont\Project9 ID3DXFont.vcxproj", "{63A345FA-4660-4839-A1F0-70302556153C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{634D0EBF-C8FB-42FD-BE3A-48EBD2A4830B}.Release|x64.Build.0 = Release|x64
 		{634D0EBF-C8FB-42FD-BE3A-48EBD2A4830B}.Release|x86.ActiveCfg = Release|Win32
 		{634D0EBF-C8FB-42FD-BE3A-48EBD2A4830B}.Release|x86.Build.0 = Release|Win32
+		{63A345FA-4660-4839-A1F0-70302556153C}.Debug|x64.ActiveCfg = Debug|x64
+		{63A345FA-4660-4839-A1F0-70302556153C}.Debug|x64.Build.0 = Debug|x64
+		{63A345FA-4660-4839-A1F0-70302556153C}.Debug|x86.ActiveCfg = Debug|Win32
+		{63A345FA-4660-4839-A1F0-70302556153C}.Debug|x86.Build.0 = Debug|Win32
+		{63A345FA-4660-4839-A1F0-70302556153C}.Release|x64.ActiveCfg = Release|x64
+		{63A345FA-4660-4839-A1F0-70302556153C}.Release|x64.Build.0 = Release|x64
+		{63A345FA-4660-4839-A1F0-70302556153C}.Release|x86.ActiveCfg = Release|Win32
+		{63A345FA-4660-4839-A1F0-70302556153C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
