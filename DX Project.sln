@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project13 Terrain", "Projec
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project14 Firework System", "Project14 Firework System\Project14 Firework System.vcxproj", "{46E5583E-052A-4D6A-9B99-462B68D1DF32}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project14 Laser System", "Project14 Laser System\Project14 Laser System.vcxproj", "{E96D6942-D540-4E32-9258-CF88092142CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -291,6 +293,14 @@ Global
 		{46E5583E-052A-4D6A-9B99-462B68D1DF32}.Release|x64.Build.0 = Release|x64
 		{46E5583E-052A-4D6A-9B99-462B68D1DF32}.Release|x86.ActiveCfg = Release|Win32
 		{46E5583E-052A-4D6A-9B99-462B68D1DF32}.Release|x86.Build.0 = Release|Win32
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Debug|x64.ActiveCfg = Debug|x64
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Debug|x64.Build.0 = Debug|x64
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Debug|x86.Build.0 = Debug|Win32
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Release|x64.ActiveCfg = Release|x64
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Release|x64.Build.0 = Release|x64
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Release|x86.ActiveCfg = Release|Win32
+		{E96D6942-D540-4E32-9258-CF88092142CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
