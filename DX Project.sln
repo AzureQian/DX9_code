@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project14 Snow System", "Pr
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project15 Pick", "Project15 Pick\Project15 Pick.vcxproj", "{DF065057-65BB-4788-8EE9-BB3C4A79A667}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project16 Transform", "Project16 Transform\Project16 Transform.vcxproj", "{56918AC1-AEEB-41F1-9D08-5B17D9314567}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{DF065057-65BB-4788-8EE9-BB3C4A79A667}.Release|x64.Build.0 = Release|x64
 		{DF065057-65BB-4788-8EE9-BB3C4A79A667}.Release|x86.ActiveCfg = Release|Win32
 		{DF065057-65BB-4788-8EE9-BB3C4A79A667}.Release|x86.Build.0 = Release|Win32
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Debug|x64.ActiveCfg = Debug|x64
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Debug|x64.Build.0 = Debug|x64
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Debug|x86.ActiveCfg = Debug|Win32
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Debug|x86.Build.0 = Debug|Win32
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Release|x64.ActiveCfg = Release|x64
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Release|x64.Build.0 = Release|x64
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Release|x86.ActiveCfg = Release|Win32
+		{56918AC1-AEEB-41F1-9D08-5B17D9314567}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
