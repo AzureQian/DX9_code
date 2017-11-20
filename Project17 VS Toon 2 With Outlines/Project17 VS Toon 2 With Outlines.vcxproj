@@ -20,11 +20,10 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{89421015-F95A-499B-A494-031CBC3AC892}</ProjectGuid>
+    <ProjectGuid>{9957B8EF-E930-40B7-9915-A124C2604FD6}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Project17Toon1NoOutlines</RootNamespace>
+    <RootNamespace>Project17VSToon2WithOutlines</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.15063.0</WindowsTargetPlatformVersion>
-    <ProjectName>Project17 VS Toon 1 No Outlines</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -151,17 +150,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <Image Include="toonshade.bmp" />
-  </ItemGroup>
-  <ItemGroup>
+    <Text Include="outline.txt" />
     <Text Include="toon.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="d3dUtility.h" />
+    <Image Include="toonshade.bmp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="d3dUtility.h" />
+    <ClInclude Include="silhouetteEdges.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\wb.qianhongze\Desktop\source code\Book Part IV Code\Chapter 17\VS Toon 2 With Outlines\toon.cpp" />
     <ClCompile Include="d3dUtility.cpp" />
-    <ClCompile Include="toon.cpp" />
+    <ClCompile Include="silhouetteEdges.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
